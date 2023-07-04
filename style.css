@@ -1,0 +1,19 @@
+.card-style p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight:500px;
+    font-size:18px;
+}
+.body-color{
+    background-color:#F6D8C6;
+}
+.card-style {
+    height:100vh;
+    
+}
+.col-style {
+ width:80%;
+}
+.double {
+    width:100%;
+    height:100%;
+}
